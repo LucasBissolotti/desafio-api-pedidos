@@ -32,7 +32,6 @@ Desafio/
 │   ├── utils/
 │   │   └── orderMapper.js    # Mapeamento/transformação dos dados
 │   └── server.js             # Arquivo principal do servidor
-├── .env                      # Variáveis de ambiente
 ├── .env.example              # Exemplo de variáveis de ambiente
 ├── .gitignore
 ├── package.json
